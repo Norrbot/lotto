@@ -1,2 +1,2 @@
-# lotto
-Lotto in Python
+# LottoPy
+Lotto in Python language
