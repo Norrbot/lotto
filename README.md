@@ -16,3 +16,4 @@ Ez a program lehetővé teszi lottószámok generálását, statisztikák kész�
    git clone https://github.com/Norrbot/lotto.git
    cd lotto
    ```
+Vagy töltsd le a RAW fájlt
