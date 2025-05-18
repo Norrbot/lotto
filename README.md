@@ -1,6 +1,6 @@
 # LottoPy
 
-**Lottó program Python nyelven – Magyar nyelvű felhasználói felülettel**  
+**Lottó program Python nyelven – Magyar nyelvű felhasználói felülettel (For English, please scroll down!)** 
 Készítette: Szalanics Dávid  
 Utolsó módosítás: 2025. 05. 18.  
 Letölthető: GitHub Repository
@@ -16,4 +16,21 @@ Ez a program lehetővé teszi lottószámok generálását, statisztikák kész�
    git clone https://github.com/Norrbot/lotto.git
    cd lotto
    ```
-Vagy töltsd le a RAW fájlt
+<br>Vagy töltsd le a RAW fájlt
+
+----------------------------------------------------------------------------------------
+
+## 🌐 English Version
+Lotto program in Python (English version)
+Created by: Dávid Szalanics
+Last updated: 2025. 05. 18
+Download: GitHub Repository
+
+Description
+This Python-based lottery tool allows number generation, statistics, and simulations related to lottery games. Designed to be simple and user-friendly.
+
+## 📋 Installation & Usage
+Same steps as above – see Hungarian section or use Google Translate if needed.
+
+## 📄 License
+This project is licensed under the MIT License – see the LICENSE file for details.
