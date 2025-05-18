@@ -59,6 +59,7 @@ while True: # Végtelen ciklus
         print("Köszönöm, hogy játszottál!") # Elköszönés a felhasználótól
         print("Viszlát!")
         delay(1)
+        clear_screen()
         break # Kilépés
     else: # Hibakezelés
         vonal()
