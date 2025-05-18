@@ -59,6 +59,7 @@ while True:  # Infinite loop
         print("Thank you for playing!")  # Farewell message
         print("Goodbye!")
         delay(1)
+        clear_screen()
         break  # Exit
 
     else:  # Error handling
