@@ -1,4 +1,4 @@
-# Lottó program Python nyelven Magyar nyelven
+# Lottó program Python nyelven Magyarul
 # Készítette: Szalanics Dávid
 # Letölthető: https://github.com/Norrbot/lotto 
 # Utolsó módosítás: 2025. 05. 18.
